@@ -2,9 +2,9 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on little projects for experience, because I just strarting.
-- 📫 How to reach me on Ig: irbch01 - X: zZzMsi
+- 📫 How to reach me on Ig: zzzmsi
 - 😄 Pronouns: Ishmael or Mosi
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Only laugh
 
 <!---
 zZzMsi/zZzMsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
